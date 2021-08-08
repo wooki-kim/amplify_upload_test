@@ -1,0 +1,1 @@
+# amplify_upload_test
